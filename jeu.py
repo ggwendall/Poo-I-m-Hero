@@ -5,7 +5,7 @@ from equipements import BarbareEquipement, HealerEquipement, AnalysteEquipement
 from difficultes import DifficulteInconnue, Facile, Moyen, Difficile, Hardcore
 
 def jouer():
-    api_key = "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"
+    api_key = "Votre clé OpenAI"
     API_GPT.initialiser(api_key)
 
     nom_joueur = input("Entrez votre nom : ")
