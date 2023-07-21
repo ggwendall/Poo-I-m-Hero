@@ -1,4 +1,4 @@
-![image](https://github.com/ggwendall/Poo-I-m-Hero/assets/48108275/aff069af-2eb6-4fe5-80b0-3524c581b9b0)Projet "Poo Je suis le Hero !"
+## Projet "Poo Je suis le Hero !"
 
 Table des matières
 
