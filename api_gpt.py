@@ -2,7 +2,7 @@ import openai
 
 class API_GPT:
 
-    __API_Key = "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"
+    __API_Key = "Votre clé OpenAi"
 
     @classmethod
     def initialiser(cls, api_key):
